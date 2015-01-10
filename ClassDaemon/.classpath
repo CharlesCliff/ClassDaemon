@@ -4,7 +4,6 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files (x86)/eclipse/sdk/platforms/android-20/android.jar" sourcepath="D:/Program Files (x86)/eclipse/sdk/sources/android-20">
 		<attributes>
@@ -15,5 +14,6 @@
 		</accessrules>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="D:/Users/YangYang/workspace/eclipseAndroid/appcompat_v7/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
